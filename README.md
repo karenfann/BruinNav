@@ -1,0 +1,1 @@
+<strong>BruinNav</strong> is a turn-by-turn navigation system I developed as a course project. Using geospatial data indexed from Open Street Maps project database, I created a binary search tree map and implemented the A* algorithm to find and reconstruct the most optimal path.
