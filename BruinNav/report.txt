@@ -1,0 +1,27 @@
+MyMap:
+associate()
+If the MapLoader holds N Nodes, then associate is O(logN).
+
+find()
+If MapLoader holds N Nodes, then find() is O(logN).
+
+
+AttractionMapper
+init()
+If MapLoader holds N StreetSegments and each StreetSegment has on average S attractions, then init() is O(NlogS).
+
+getGeoCoord()
+If attractionMap holds N attractions, then getGeoCoord() is O(logN).
+
+
+SegmentMapper
+init()
+If MapLoader holds N StreetSegments and segmentMap holds S GeoCoordinates, then init() is O(NlogS).
+
+getSegments()
+If segmentMap holds N GeoCoordinates, then getSegments() is O(logN).
+
+
+Navigator
+navigate()
+If attractionMap holds A attractions, segmentMap holds S GeoCoordinates and gScore, open holds N Nodes, and each segment holds on average B attractions, then navigate() is O(logA + logS + N(logS + SB + SBlogN) + NlogN).

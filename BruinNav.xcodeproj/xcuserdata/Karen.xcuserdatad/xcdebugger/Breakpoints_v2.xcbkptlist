@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "proj4/MapLoader.cpp"
+            timestampString = "510897875.604597"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "MapLoaderImpl::load(string mapFile)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "proj4/AttractionMapper.cpp"
+            timestampString = "511422696.660296"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "AttractionMapperImpl::getGeoCoord(string attraction, GeoCoord&amp; gc)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "proj4/SegmentMapper.cpp"
+            timestampString = "510991723.474494"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "SegmentMapperImpl::init(const MapLoader&amp; ml)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "proj4/MyMap.h"
+            timestampString = "511333032.207454"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "find(const KeyType&amp; key)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMap&lt;GeoCoord, std::__1::vector&lt;StreetSegment, std::__1::allocator&lt;StreetSegment&gt; &gt; &gt;::find(GeoCoord const&amp;) const"
+                  moduleName = "proj4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Karen/Documents/cs32/proj4/proj4/MyMap.h"
+                  timestampString = "511333568.126954"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMap&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;, GeoCoord&gt;::find(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; const&amp;) const"
+                  moduleName = "proj4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Karen/Documents/cs32/proj4/proj4/MyMap.h"
+                  timestampString = "511333568.129375"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "1491">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMap&lt;NavigatorImpl::Node, double&gt;::find(NavigatorImpl::Node const&amp;) const"
+                  moduleName = "proj4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Karen/Documents/cs32/proj4/proj4/MyMap.h"
+                  timestampString = "511333568.132"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "114">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMap&lt;NavigatorImpl::Node, NavigatorImpl::Node&gt;::find(NavigatorImpl::Node const&amp;) const"
+                  moduleName = "proj4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Karen/Documents/cs32/proj4/proj4/MyMap.h"
+                  timestampString = "511333568.136345"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "114">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "proj4/MyMap.h"
+            timestampString = "511333041.123366"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "find(const KeyType&amp; key)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMap&lt;GeoCoord, std::__1::vector&lt;StreetSegment, std::__1::allocator&lt;StreetSegment&gt; &gt; &gt;::find(GeoCoord const&amp;) const"
+                  moduleName = "proj4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Karen/Documents/cs32/proj4/proj4/MyMap.h"
+                  timestampString = "511333041.127584"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "95">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMap&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;, GeoCoord&gt;::find(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; const&amp;) const"
+                  moduleName = "proj4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Karen/Documents/cs32/proj4/proj4/MyMap.h"
+                  timestampString = "511333041.129872"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "1468">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMap&lt;NavigatorImpl::Node, double&gt;::find(NavigatorImpl::Node const&amp;) const"
+                  moduleName = "proj4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Karen/Documents/cs32/proj4/proj4/MyMap.h"
+                  timestampString = "511333041.13269"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "95">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMap&lt;NavigatorImpl::Node, NavigatorImpl::Node&gt;::find(NavigatorImpl::Node const&amp;) const"
+                  moduleName = "proj4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Karen/Documents/cs32/proj4/proj4/MyMap.h"
+                  timestampString = "511333041.134656"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "95">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "proj4/MyMap.h"
+            timestampString = "511341975.567528"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "find(const KeyType&amp; key)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMap&lt;GeoCoord, std::__1::vector&lt;StreetSegment, std::__1::allocator&lt;StreetSegment&gt; &gt; &gt;::find(GeoCoord const&amp;) const"
+                  moduleName = "proj4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Karen/Documents/cs32/proj4/proj4/MyMap.h"
+                  timestampString = "511342012.030793"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMap&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;, GeoCoord&gt;::find(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; const&amp;) const"
+                  moduleName = "proj4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Karen/Documents/cs32/proj4/proj4/MyMap.h"
+                  timestampString = "511342012.032637"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMap&lt;NavigatorImpl::Node, double&gt;::find(NavigatorImpl::Node const&amp;) const"
+                  moduleName = "proj4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Karen/Documents/cs32/proj4/proj4/MyMap.h"
+                  timestampString = "511342012.034909"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMap&lt;NavigatorImpl::Node, NavigatorImpl::Node&gt;::find(NavigatorImpl::Node const&amp;) const"
+                  moduleName = "proj4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Karen/Documents/cs32/proj4/proj4/MyMap.h"
+                  timestampString = "511342012.050864"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "69">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
