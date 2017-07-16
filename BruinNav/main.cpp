@@ -47,4 +47,5 @@ int main() {
         for (auto i: directions)
             cout << i.m_geoSegment.start.latitude << " " << i.m_geoSegment.start.longitude << " " << i.m_geoSegment.end.latitude << " " << i.m_geoSegment.end.longitude << " " << i.m_direction << " " << i.m_streetName << endl;
     }
+return 0;
 }
